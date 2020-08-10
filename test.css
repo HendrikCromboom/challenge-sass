@@ -14,7 +14,6 @@ article {
   display: flex;
   flex-wrap: wrap;
 }
-
 article section {
   flex-grow: 1;
   flex-basis: 45%;
@@ -28,12 +27,10 @@ article section {
   overflow: auto;
   box-sizing: border-box;
 }
-
 article section#selling-points {
   flex-grow: 2;
   flex-basis: 100%;
 }
-
 article code {
   background: #000;
   border: 1px solid #ddd;
@@ -49,12 +46,10 @@ article code {
   display: block;
   word-wrap: break-word;
 }
-
 article code.before {
   float: left;
   width: 40%;
 }
-
 article code.after {
   float: right;
   width: 40%;
@@ -73,14 +68,11 @@ h1 {
 h6 {
   text-align: center;
   font-size: 2em;
-  padding: 16px;
+  padding: 32px;
   margin-bottom: 0px;
 }
 
-.message,
-.success,
-.error,
-.warning {
+.message, .warning, .error, .success {
   border: 1px solid #ccc;
   padding: 16px;
   color: #2748B3;
