@@ -11,6 +11,12 @@ $value: 16px;
 @mixin paddington2{
   padding: #{$value * 2};
 }
+.red{
+  color:red;
+}
+.blue{
+color: blue;
+}
 body {
   font: 100% "Space Mono", monospace;
   color: #2748B3;
