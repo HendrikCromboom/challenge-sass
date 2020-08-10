@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bd9c44f-6654-445d-9880-c67ec8c68ffa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_body.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_body.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/test.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/test.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.scss" beforeDir="false" afterPath="$PROJECT_DIR$/test.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ftmIK3qKoOIql6wYqwMdmRRQ0a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bd9c44f-6654-445d-9880-c67ec8c68ffa" name="Default Changelist" comment="" />
+      <created>1597045684210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597045684210</updated>
+      <workItem from="1597045687909" duration="12858000" />
+      <workItem from="1597069222656" duration="1868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="287" y="67" width="704" height="665" key="EditFileWatcherDialog" timestamp="1597070526999">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="287" y="67" width="704" height="665" key="EditFileWatcherDialog/0.23.1280.709@0.23.1280.709" timestamp="1597070526999" />
+    <state x="141" y="23" width="997" height="709" key="SettingsEditor" timestamp="1597070637263">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="141" y="23" width="997" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1597070637263" />
+  </component>
+</project>
