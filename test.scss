@@ -76,10 +76,7 @@ h6 {
   margin-bottom: 0px
 }
 
-.message,
-.success,
-.error,
-.warning {
+.message{
   border: 1px solid #ccc;
   @include paddington;
   color: #2748B3;
@@ -88,13 +85,16 @@ h6 {
 }
 
 .success {
-  background-color: green
+  @extend .message;
+  background-color: green;
 }
 
 .error {
-  background-color: red
+  background-color: red;
+  @extend .message;
 }
 
 .warning {
-  background-color: orange
+  background-color: orange;
+  @extend .message;
 }
